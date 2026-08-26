@@ -12,6 +12,8 @@ This project implements the Black–Scholes model for pricing European call and 
 
 The project will begin with a basic implementation of the Black–Scholes pricing equations and will gradually be extended to explore option Greeks, implied volatility, numerical methods, and comparisons with alternative pricing approaches.
 
+Through this project, the aim is to establish a foundation for further work in derivatives pricing, quantitative modelling, and computational finance.
+
 ### Objectives:-
 
 1. Understand the mathematical foundations of the Black–Scholes model.
